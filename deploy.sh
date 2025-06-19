@@ -21,4 +21,7 @@ git remote add origin https://github.com/Dai51d/wenyiLove.git
 git checkout -b gh-pages
 git push -f https://github.com/Dai51d/wenyiLove.git master:gh-pages
 
+git checkout -b bj-pages
+git push -f https://github.com/Dai51d/wenyiLove.git master:bj-pages
+
 cd -
